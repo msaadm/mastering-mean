@@ -1,4 +1,6 @@
 # Mastering MEAN Web Development
+Following the tutorial for Packt Pub Mastering MEAN Web Development: Expert Full Stack JavaScript
+
 
 > You can buy the Packt Publishing Course at https://www.packtpub.com/web-development/mastering-mean-web-development-expert-full-stack-javascript-video. You can also view the [Course Overview](https://www.packtpub.com/packtlib/video/Web%20Development/9781785882159/8558/8559/The%20Course%20Overview) for free to see what you'll learn in this course.
 
